@@ -1,3 +1,3 @@
 Once at a cmd prompt, you can use the start command to open most files.
 
-For example, you can type start <somedocument.docx> and if you have MS Word installed, it will open that document with Word. You can type start . and it will open Windows Explorer in the current directory. You can type start http://www.google.com/ and it will open your default browser to the google home page.
+For example, you can type start <somedocument.docx> and if you have MS Word installed, it will open that document with Word. You can type start . and it will open Windows Explorer in the current directory. You can type start http://www.google.com/ and it will open your default browser to the google home page.Ok done
